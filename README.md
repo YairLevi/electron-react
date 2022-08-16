@@ -1,2 +1,1 @@
-# electron-react
-Electron and React boilerplate
+Electron and React boilerplate code
